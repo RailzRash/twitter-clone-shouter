@@ -3,14 +3,18 @@ Twitter clone! Pushing methods into model
 
 Look into:
 
-<tt>Polymorphism </tt>
+Polymorphism 
 
-<tt>Paperclip</tt>
+Paperclip
 
-<tt>Paperclip</tt>
+Paperclip
 
-<tt>Monban</tt>
+Monban
 
-<tt>Rails Observers</tt>
+Rails Observers
 
+To set up local environment:
 
+1.Clone or Fork Repository 
+2.run bundle 
+3.Enjoy!
