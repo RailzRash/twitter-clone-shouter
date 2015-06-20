@@ -16,5 +16,7 @@ Rails Observers
 To set up local environment:
 
 1.Clone or Fork Repository 
+
 2.run bundle 
+
 3.Enjoy!
